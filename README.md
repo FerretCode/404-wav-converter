@@ -20,5 +20,5 @@ source .venv\Scripts\Activate.ps1 # on windows systems
 
 pip install pydub # install pydub for conversion
 
-python 404.py # open the tool
+python 404.py /path/to/folder # start the tool 
 ```
